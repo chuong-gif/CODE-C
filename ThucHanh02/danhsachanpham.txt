@@ -1,0 +1,2 @@
+﻿TapChi;Tạp chí Khoa học;2023;NXB Khoa học;12;5
+Sach;Lập trình C#;2022;NXB Giáo dục;978-1234567890;Nguyễn Văn A

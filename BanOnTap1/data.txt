@@ -1,0 +1,3 @@
+Nguoi;Nguyen Van A;30;123 Main St
+NhanVien;Tran Thi B;28;456 Oak St;NV001;Developer;1500
+QuanLy;Le Van C;40;789 Pine St;QL002;Manager;2500;Phong IT

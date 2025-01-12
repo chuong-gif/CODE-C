@@ -1,0 +1,7 @@
+D:\code_hoc_tap\BanOnTap1\BanOnTap1\bin\Debug\BanOnTap1.exe.config
+D:\code_hoc_tap\BanOnTap1\BanOnTap1\bin\Debug\BanOnTap1.exe
+D:\code_hoc_tap\BanOnTap1\BanOnTap1\bin\Debug\BanOnTap1.pdb
+D:\code_hoc_tap\BanOnTap1\BanOnTap1\obj\Debug\BanOnTap1.csproj.AssemblyReference.cache
+D:\code_hoc_tap\BanOnTap1\BanOnTap1\obj\Debug\BanOnTap1.csproj.CoreCompileInputs.cache
+D:\code_hoc_tap\BanOnTap1\BanOnTap1\obj\Debug\BanOnTap1.exe
+D:\code_hoc_tap\BanOnTap1\BanOnTap1\obj\Debug\BanOnTap1.pdb
